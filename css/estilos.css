@@ -5,6 +5,14 @@ h1{
     color:#E20000;
     font-size:36px;
 }
+.icon-tag{
+    background-color:rgba(0,209,255,1);
+    border-radius: 15px;
+    padding: 40px 0;
+    color: white;
+    font-size: 90px;
+    text-align: center;
+}
 #experiencia h2, #formacion h2, h4 , h2{
     font-weight: 400;
     font-size: 24px;
@@ -23,6 +31,9 @@ h3 {
 #experiencia h5, #formacion h5 {
     color: #6A6A6A;
     font-size: 14px;
+}
+#sobre-mi .card{
+    height: 200px;
 }
 
 #inicio .cohete{
